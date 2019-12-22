@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/nav_music"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_broadcast"
+            android:icon="@drawable/nav_broadcast"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_recieve"
+            android:icon="@drawable/nav_recieve"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/nav_settings"
+            android:title="@string/menu_tools" />
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/nav_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/nav_about"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>

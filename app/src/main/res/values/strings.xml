@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MuSync</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MuSync – Music Syncing App</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">My Music</string>
+    <string name="menu_gallery">Broadcast Music</string>
+    <string name="menu_slideshow">Recieve Music</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">About</string>
+
+
+
+
+    <!-- About -->
+    <string name="about_title">MuSync</string>
+    <string name="about_subtitle">Music Syncing App</string>
+    <string name="about_text">whatever you write here.</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>
